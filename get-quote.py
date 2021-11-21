@@ -6,6 +6,8 @@ def main():
   #f.close()
 
   #print(quotes)
+   s='ias alab'
+   print(s[::-1])
 
 if __name__== "__main__":
   main()
