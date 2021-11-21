@@ -5,7 +5,7 @@ def main():
   quotes = f.readlines()
   f.close()
 
-  print(quotes)
+  print(quotes[0])
    s='ias alab'
    print(s[::-1])
 
